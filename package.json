@@ -1,0 +1,22 @@
+{
+  "name": "bcryptify-ts",
+  "version": "0.9.0",
+  "description": "TypeScript implementation of the BCrypt password hashing algorithm. ",
+  "main": "BCrypt.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rmleon/bcryptify-ts.git"
+  },
+  "keywords": [
+    "bcrypt"
+  ],
+  "author": "Ricardo Leon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rmleon/bcryptify-ts/issues"
+  },
+  "homepage": "https://github.com/rmleon/bcryptify-ts#readme"
+}
